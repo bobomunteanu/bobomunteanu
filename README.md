@@ -4,4 +4,5 @@
 - 🌱 I’m currently learning Golang
 - 💬 I'm interested in p2p technology
 
+[bytepods.com](https://bytepods.com)
 [bobomunteanu.github.io](https://bobomunteanu.github.io)
